@@ -9,4 +9,6 @@ Things you should have in captcha systems that are used in realtime:
  - Captcha Sessions / Timeouts.
  etc
  
+ Side Note: *I am aware there is some redundant code in the project, my purpose was to make this project readable and understandable for a fairly basic developer rather than focusing 'chopping down my code'.*
+ 
  
